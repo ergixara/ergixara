@@ -1,6 +1,6 @@
-# Hi , I'm [Ergi] 👋
+# Hi , I'm Ergi 👋
 
-### 🚀 Software Developer | Math & Informatics Engineer | ML Enthusiast
+### 🚀 I am a Software Developer | Math & Informatics Engineer | ML Enthusiast
 
 I bridge the gap between complex data logic and user-friendly enterprise solutions. Currently, I'm focused on building scalable internal tools and exploring the frontiers of Machine Learning.
 
@@ -25,8 +25,8 @@ I bridge the gap between complex data logic and user-friendly enterprise solutio
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ergixara&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ergixara&layout=compact&theme=radical)
 
 ---
 
