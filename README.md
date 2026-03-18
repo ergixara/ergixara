@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Hello, I'm Ergi 👋</h1>
-<h3 align="center">Building tools, exploring ML, and listening to lofi ☕</h3>
+<h3 align="center">Building tools, exploring ML </h3>
 
 <p align="center">
   A developer who likes to combine structured problem-solving with the efficiency of low-code solutions. I believe in making complex processes look easy.
